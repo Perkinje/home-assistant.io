@@ -63,6 +63,7 @@ Known supported devices:
 - Marantz M-CR611
 - Marantz SR5006
 - Marantz SR5008
+- Marants SR5010
 - Marantz SR5011
 - Marantz SR6007 - SR6012
 - Marantz SR7007
